@@ -46,7 +46,7 @@ async def place_order(order: Order):
     return new_order
 
 
-if __name__ == 'main':
-    import uvicorn
 
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+import uvicorn
+
+uvicorn.run(app, host="127.0.0.1", port=8000)
