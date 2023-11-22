@@ -35,7 +35,7 @@ The code consists of a FastAPI application with three main functionalities:
 2. Run the application:
 
     ```bash
-    uvicorn main:app --reload
+    python main.py
     ```
 
 
