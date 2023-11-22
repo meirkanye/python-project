@@ -1,5 +1,4 @@
 # python-project
-A good README file provides information about the purpose of the code, how to set it up, and any other relevant details. Here's a template you can use for your FastAPI code:
 
 ---
 
