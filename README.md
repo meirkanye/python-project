@@ -1,6 +1,4 @@
-# python-project
 
----
 
 # FastAPI Coffee Shop API
 
@@ -37,10 +35,9 @@ The code consists of a FastAPI application with three main functionalities:
 2. Run the application:
 
     ```bash
-    uvicorn your_file_name:app --reload
+    uvicorn main:app --reload
     ```
 
-Replace `your_file_name` with the name of the file where your FastAPI app is defined.
 
 ## Usage
 
@@ -69,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Make sure to replace `your_file_name` with the actual name of your Python file containing the FastAPI code. Also, consider adding a license file (e.g., `LICENSE`) to specify the terms under which others can use or contribute to your code.
+
